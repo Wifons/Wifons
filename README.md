@@ -30,4 +30,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wifons&hide_progress=true)
